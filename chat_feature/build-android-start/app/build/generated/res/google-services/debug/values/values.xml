@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">950062275562-hmlh697n9nq0tr5dherjmnvu23th2f61.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">950062275562</string>
+    <string name="google_api_key" translatable="false">AIzaSyAQHCV8h1GhSO9XgUlV4fyY0t8gZNQjp5I</string>
+    <string name="google_app_id" translatable="false">1:950062275562:android:2157d678d2f116c18d3093</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQHCV8h1GhSO9XgUlV4fyY0t8gZNQjp5I</string>
+    <string name="google_storage_bucket" translatable="false">codelab-chatting-app.appspot.com</string>
+    <string name="project_id" translatable="false">codelab-chatting-app</string>
+</resources>

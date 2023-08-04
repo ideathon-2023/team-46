@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950062275562",
+    "project_id": "codelab-chatting-app",
+    "storage_bucket": "codelab-chatting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950062275562:android:2157d678d2f116c18d3093",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950062275562-opkvgvih6fnsi1vd7h7hs159cne5cl0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "ae221ef553a148ad2b0bd805f3f808fe74873aa3"
+          }
+        },
+        {
+          "client_id": "950062275562-hmlh697n9nq0tr5dherjmnvu23th2f61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHCV8h1GhSO9XgUlV4fyY0t8gZNQjp5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950062275562-hmlh697n9nq0tr5dherjmnvu23th2f61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
