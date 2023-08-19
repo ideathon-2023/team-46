@@ -4,7 +4,7 @@
             "outputFile": "com.google.firebase.codelab.friendlychat.app-mergeDebugResources-36:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS\\Desktop\\Registration\\Registration\\.gradle\\caches\\transforms-3\\5b05d28ea28f976a79c71326ae0109ef\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "/Users/vishwaskisaniya/.gradle/caches/transforms-3/5b05d28ea28f976a79c71326ae0109ef/transformed/material-1.9.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

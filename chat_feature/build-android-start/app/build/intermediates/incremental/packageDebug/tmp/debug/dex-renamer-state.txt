@@ -1,10 +1,10 @@
-#Fri Aug 04 18:01:51 IST 2023
-base.0=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.3=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.4=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.5=E\:\\team-46\\codelab-friendlychat-android\\build-android-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Fri Aug 18 12:36:33 IST 2023
+base.0=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.4=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.5=/Users/vishwaskisaniya/Downloads/team-46-main/chat_feature/build-android-start/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex
