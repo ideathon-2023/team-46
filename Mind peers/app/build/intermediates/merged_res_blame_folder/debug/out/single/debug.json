@@ -1,114 +1,110 @@
 [
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/font_antic.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/font/antic.xml"
-    },
-    {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/drawable_download.jpeg.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/drawable/download.jpeg"
-    },
-    {
         "merged": "com.example.loginpage.app-merged_res-45:/layout_activity_article.xml.flat",
         "source": "com.example.loginpage.app-main-47:/layout/activity_article.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/xml_backup_rules.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/xml/backup_rules.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/xml/data_extraction_rules.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/anim_top_anim.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/anim/top_anim.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/font_bungee.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/font/bungee.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/layout_activity_login.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/layout/activity_login.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/font_bangers.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/font/bangers.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/anim_bot_anim.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/anim/bot_anim.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/drawable_back.jpeg.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/drawable/back.jpeg"
+        "merged": "com.example.loginpage.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/font_antic.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/font/antic.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.loginpage.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "com.example.loginpage.app-merged_res-45:/layout_activity_login.xml.flat",
         "source": "com.example.loginpage.app-main-47:/layout/activity_login.xml"
     },
     {
+        "merged": "com.example.loginpage.app-merged_res-45:/font_bangers.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/font/bangers.xml"
+    },
+    {
         "merged": "com.example.loginpage.app-merged_res-45:/drawable_images.jpeg.flat",
         "source": "com.example.loginpage.app-main-47:/drawable/images.jpeg"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/drawable_back.jpeg.flat",
+        "source": "com.example.loginpage.app-main-47:/drawable/back.jpeg"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/font_bungee.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/font/bungee.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/layout_activity_main.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/layout/activity_main.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/anim_top_anim.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/anim/top_anim.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/drawable_download.jpeg.flat",
+        "source": "com.example.loginpage.app-main-47:/drawable/download.jpeg"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/anim_bot_anim.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/anim/bot_anim.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/vishwaskisaniya/.gradle/daemon/8.0/com.example.loginpage.app-main-47:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.loginpage.app-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.loginpage.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.loginpage.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
     }
 ]

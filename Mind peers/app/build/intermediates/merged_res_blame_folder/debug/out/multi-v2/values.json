@@ -4,6 +4,42 @@
             "outputFile": "com.example.loginpage.app-mergeDebugResources-43:/values/values.xml",
             "map": [
                 {
+                    "source": "/Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/res/values/preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "221"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "3833"
+                    }
+                },
+                {
+                    "source": "/Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    },
+                    "to": {
+                        "startLines": "605,836",
+                        "startColumns": "4,4",
+                        "startOffsets": "33368,49882",
+                        "endColumns": "41,41",
+                        "endOffsets": "33405,49919"
+                    }
+                },
+                {
                     "source": "/Users/vishwaskisaniya/.gradle/caches/transforms-3/802b9a5c342fc698ed20453692f600f7/transformed/appcompat-resources-1.6.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -39,23 +75,6 @@
                         "endLines": "27,28,34,36,44,45,46,47,53,59,61,62,63,64,65,101,102,103,104,109,110,111,112,124,132,135,158,163,164,169,174,175,176,181,182,187,188,193,194,195,201,202,203,208,214,215,216,227,233,234,235,236,239,242,245,246,249,252,253,254,255,256,259,262,263,264,265,271,276,279,282,283,284,289,290,291,294,297,298,301,304,307,310,311,312,315,318,319,324,325,331,336,339,342,343,344,345,346,347,348,349,350,351,352,353,369,375,424,425,426,427,438,444,445,446,449,454,455,464,465,466,476,482,519,520,525,534,536,537,543,544,552,556,557,558,559,560,569,573,1474,1528,8831,9412,9540,9546,9550,9699,9844,9947,10167,10199,10222,10225,10228,10231,10258,10285,10302,10388,10812,10825,10841,10845,10875,10888,10892,10902,11045,11089,11111,11340,11363,11564,11898,11933,11940,12005,12008",
                         "endColumns": "11,55,11,60,11,51,49,52,47,50,54,59,64,58,61,51,60,61,45,11,51,49,50,11,11,44,58,11,56,11,11,53,56,11,57,11,55,11,56,50,11,51,54,11,11,49,51,55,11,60,59,69,11,11,11,67,11,11,61,62,67,66,11,11,66,64,64,11,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,55,64,11,11,64,11,66,11,11,11,11,64,61,61,63,61,58,59,60,60,58,59,11,11,50,48,47,57,11,11,46,59,11,11,53,11,53,55,45,46,50,58,51,11,58,53,11,54,11,11,45,54,44,43,11,11,40,44,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24",
                         "endOffsets": "4117,4173,4415,4525,4816,4868,4918,4971,5303,5613,5737,5797,5862,5921,5983,7964,8025,8087,8133,8327,8379,8429,8480,8997,9309,9465,11045,11242,11299,11494,11675,11729,11786,11978,12036,12232,12288,12482,12539,12590,12812,12864,12919,13109,13325,13375,13427,14008,14214,14275,14335,14405,14538,14669,14797,14865,14994,15120,15182,15245,15313,15380,15503,15628,15695,15760,15825,16114,16295,16416,16537,16603,16670,16880,16949,17015,17140,17266,17333,17459,17586,17711,17838,17894,17959,18085,18208,18273,18481,18548,18836,19016,19136,19256,19321,19383,19445,19509,19571,19630,19690,19751,19812,19871,19931,20591,20842,23799,23848,23896,23954,24475,24705,24752,24812,24918,25098,25152,25545,25599,25655,26227,26523,28857,28916,29172,29502,29606,29660,29898,29953,30278,30417,30463,30518,30563,30607,30955,31092,92360,95209,561863,582496,588161,588536,588703,593933,600059,605483,612756,613942,614812,614878,614957,615032,615816,616707,617526,621463,635788,636259,637050,637213,638574,639138,639291,639750,644305,646318,646994,654241,654899,662543,674036,675457,675810,678516,678617"
-                    }
-                },
-                {
-                    "source": "/Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "605,836",
-                        "startColumns": "4,4",
-                        "startOffsets": "33368,49882",
-                        "endColumns": "41,41",
-                        "endOffsets": "33405,49919"
                     }
                 },
                 {
@@ -95,44 +114,6 @@
                     }
                 },
                 {
-                    "source": "/Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,390",
-                        "endLines": "6,8",
-                        "endColumns": "12,66",
-                        "endOffsets": "384,452"
-                    },
-                    "to": {
-                        "startLines": "2112,5581",
-                        "startColumns": "4,4",
-                        "startOffsets": "140954,377411",
-                        "endLines": "2116,5581",
-                        "endColumns": "12,65",
-                        "endOffsets": "141132,377472"
-                    }
-                },
-                {
-                    "source": "/Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/res/values/font_certs.xml",
-                    "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,257,1982",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "252,1977,3567"
-                    },
-                    "to": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "150,352,2077",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "347,2072,3662"
-                    }
-                },
-                {
                     "source": "/Users/vishwaskisaniya/.gradle/caches/transforms-3/b6c9e110d416400289018146e592351b/transformed/compose-theme-adapter-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,11,37",
@@ -149,6 +130,25 @@
                         "endLines": "9155,9181,9219",
                         "endColumns": "24,24,24",
                         "endOffsets": "572774,573556,575021"
+                    }
+                },
+                {
+                    "source": "/Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/res/values/font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,257,1982",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "252,1977,3567"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,352,2077",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "347,2072,3662"
                     }
                 },
                 {
@@ -262,22 +262,39 @@
                     }
                 },
                 {
-                    "source": "/Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/res/values/preloaded_fonts.xml",
+                    "source": "/Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "221"
+                        "startLines": "1,8,7,3,6,5,2,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,400,366,132,303,257,64,211",
+                        "endColumns": "47,60,33,78,62,45,67,45",
+                        "endOffsets": "59,456,395,206,361,298,127,252"
                     },
                     "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "20",
-                        "endColumns": "12",
-                        "endOffsets": "3833"
+                        "startLines": "1613,1629,1630,1631,1719,1723,1731,1735",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100658,102303,102364,102398,115066,115253,116200,116465",
+                        "endColumns": "47,60,33,78,62,45,67,45",
+                        "endOffsets": "100701,102359,102393,102472,115124,115294,116263,116506"
+                    }
+                },
+                {
+                    "source": "/Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,390",
+                        "endLines": "6,8",
+                        "endColumns": "12,66",
+                        "endOffsets": "384,452"
+                    },
+                    "to": {
+                        "startLines": "2112,5581",
+                        "startColumns": "4,4",
+                        "startOffsets": "140954,377411",
+                        "endLines": "2116,5581",
+                        "endColumns": "12,65",
+                        "endOffsets": "141132,377472"
                     }
                 },
                 {
@@ -333,23 +350,6 @@
                         "startOffsets": "95371",
                         "endColumns": "49",
                         "endOffsets": "95416"
-                    }
-                },
-                {
-                    "source": "/Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1,8,7,3,6,5,2,4",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,400,366,132,303,257,64,211",
-                        "endColumns": "47,60,33,78,62,45,67,45",
-                        "endOffsets": "59,456,395,206,361,298,127,252"
-                    },
-                    "to": {
-                        "startLines": "1613,1629,1630,1631,1719,1723,1731,1735",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100658,102303,102364,102398,115066,115253,116200,116465",
-                        "endColumns": "47,60,33,78,62,45,67,45",
-                        "endOffsets": "100701,102359,102393,102472,115124,115294,116263,116506"
                     }
                 },
                 {

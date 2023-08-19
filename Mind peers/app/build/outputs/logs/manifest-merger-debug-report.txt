@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.material:compose-theme-adapter:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/b6c9e110d416400289018146e592351b/transformed/compose-theme-adapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.5.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/a965dbd46dad388efad08cc8f6d01086/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vishwaskisaniya/.gradle/caches/transforms-3/30f4c334bb9586b8299d31214a27cc88/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -62,27 +62,27 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/89d7c0a63c4c68190d59f33c4abce116/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/4f735b77350aefc156737b8f9bd0fa95/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.ui:ui-util:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/5b3dbd09c4522d45d65aa678af6bec57/transformed/ui-util-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:1-36:12
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:5:5-34:19
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:5:5-34:19
 MERGED from [com.google.android.material:material:1.5.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/a965dbd46dad388efad08cc8f6d01086/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/a965dbd46dad388efad08cc8f6d01086/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vishwaskisaniya/.gradle/caches/transforms-3/30f4c334bb9586b8299d31214a27cc88/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -102,61 +102,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vish
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/55dedc70b95a473650eda30d4efd0f99/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:11:9-47
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:11:9-47
 	tools:targetApi
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:9:9-42
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:9:9-42
 	android:allowBackup
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:13:9-47
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:13:9-47
 	android:dataExtractionRules
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:7:9-65
 activity#com.example.loginpage.Login
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:15:9-17:40
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:17:13-37
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:16:13-34
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:16:13-34
 activity#com.example.loginpage.MainActivity
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:20:13-36
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:19:13-41
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.example.loginpage.Article
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:27:9-29:15
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:27:9-29:15
 	android:label
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:28:13-45
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:27:19-42
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:27:19-42
 meta-data#preloaded_fonts
-ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:31:9-33:57
+ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:31:9-33:57
 	android:resource
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:33:13-54
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:33:13-54
 	android:name
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml:32:13-43
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml:32:13-43
 uses-sdk
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:compose-theme-adapter:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/b6c9e110d416400289018146e592351b/transformed/compose-theme-adapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:compose-theme-adapter:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/b6c9e110d416400289018146e592351b/transformed/compose-theme-adapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.5.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/a965dbd46dad388efad08cc8f6d01086/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
@@ -273,16 +273,16 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vishwaski
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/4f735b77350aefc156737b8f9bd0fa95/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.ui:ui-util:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/5b3dbd09c4522d45d65aa678af6bec57/transformed/ui-util-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-util:1.0.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/5b3dbd09c4522d45d65aa678af6bec57/transformed/ui-util-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vishwaskisaniya/Downloads/team-46-parth/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishwaskisaniya/Desktop/Untitled/team-46/Mind peers/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/vishwaskisaniya/.gradle/caches/transforms-3/58734ab3db9d01442ffac75a0ea2bc68/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/vishwaskisaniya/.gradle/caches/transforms-3/75d35fda4271de3dc184847093d1a2b0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
