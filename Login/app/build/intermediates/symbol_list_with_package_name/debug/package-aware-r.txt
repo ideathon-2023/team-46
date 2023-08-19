@@ -2439,6 +2439,10 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable back
+drawable baseline_account_circle_24
+drawable baseline_arrow_back_24
+drawable baseline_dynamic_form_24
+drawable baseline_home_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2681,6 +2685,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drawer_Layout
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -2705,6 +2710,7 @@ id fixed
 id flip
 id floating
 id forever
+id form
 id fragment_container_view_tag
 id frost
 id ghost_view
@@ -2808,6 +2814,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nav_view
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2847,6 +2854,7 @@ id percent
 id pin
 id position
 id postLayout
+id profile
 id progress_circular
 id progress_horizontal
 id radio
@@ -3085,6 +3093,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_menutiles
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3101,6 +3110,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout header
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3172,6 +3182,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu main_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3212,6 +3223,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string close
 string close_drawer
 string close_sheet
 string default_error_message
@@ -3313,6 +3325,7 @@ string new_user_sign_up
 string not_selected
 string off
 string on
+string open
 string password
 string password_toggle_content_description
 string path_password_eye
