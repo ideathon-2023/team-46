@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch(item.getItemId())
                 {
-                    case R.id.home:
+                    case  R.id.home:
                     {
                         Toast.makeText(MainActivity.this, "home selected", Toast.LENGTH_SHORT).show();
                         break;
