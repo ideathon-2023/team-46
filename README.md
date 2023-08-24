@@ -57,3 +57,57 @@ We welcome contributions from the community to enhance the app's features and us
 ---
 
 Remember, stress management is a journey, and the MINDPEERS app is here to accompany you every step of the way. Take a deep breath and start your path to a calmer, more centered self with MINDPEERS!
+
+
+--------
+
+# FriendlyChat App
+
+![FriendlyChat Logo](logo1.png)
+
+Welcome to FriendlyChat – Your Compassionate Stress Relief Platform!
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+  - [Connect with Empathy](#connect-with-empathy)
+  - [Resource Sharing](#resource-sharing)
+- [Getting Started](#getting-started)
+- [Feedback and Support](#feedback-and-support)
+- [Contributing](#contributing)
+
+## Introduction
+
+FriendlyChat is a supportive mobile application designed to connect individuals who are experiencing stress or anxiety. Our app fosters a community of empathy, allowing users to engage in anonymous conversations with others who understand their struggles. With shared experiences and resources, FriendlyChat aims to provide comfort and relief in times of stress.
+
+## Features
+
+### Connect with Empathy
+
+Step into a space of genuine understanding and compassion. FriendlyChat offers a platform where users can connect with others who are facing similar challenges. Build a network of support, share stories, and lend a listening ear to make a positive impact on each other's well-being.
+
+### Resource Sharing
+
+Empower one another with helpful resources. Users can share articles, tips, relaxation techniques, and personal insights to aid each other in managing stress effectively.
+
+## Getting Started
+
+1. **Create a Profile:** Create a unique username and password. While your conversations remain anonymous, this personal touch allows for a more personalized connection.
+
+3. **Join the Community:** Start exploring the chatrooms and engage in conversations with others who are facing similar challenges. Share your thoughts or simply lend a listening ear – it's a space for mutual support.
+
+4. **Share and Discover:** Contribute to the community by sharing your experiences, insights, and resources that have helped you cope with stress. Likewise, discover valuable tools from fellow users.
+
+5. **Be Respectful:** While anonymity provides a safe space, remember to always treat others with kindness and respect. FriendlyChat is built on empathy and understanding.
+
+## Feedback and Support
+
+Your feedback is invaluable to us! If you have suggestions, questions, or need technical assistance, please reach out to our support team at anubhavpandey.bt22cseds@pec.edu.in .
+
+## Contributing
+
+We welcome contributions from individuals who are passionate about mental health support. 
+---
+
+In the journey of managing stress, let's foster connections that uplift and inspire. Join FriendlyChat today, and together, we can lighten the load and spread positivity!
